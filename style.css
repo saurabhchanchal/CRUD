@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
+fieldset {
+    background-color: blue;
+    display: flex;
+}
+
 table {
     border-color: white;
 }
@@ -24,6 +29,9 @@ tr {
 
 input {
     font-size: 16px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    
 }
 
   #msg {
