@@ -1,0 +1,32 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+table {
+    border-color: white;
+}
+
+td {
+    padding: 8px 16px;
+}
+
+.col {
+    font-weight: bold;
+    font-size: 18px;
+    background-color: blue;
+}
+tr {
+    background-color: rgb(165, 233, 255);
+    color: black;
+    text-align: center;
+}
+
+input {
+    font-size: 16px;
+}
+
+  #msg {
+   color: yellow;
+   font-size: 18px;
+}
